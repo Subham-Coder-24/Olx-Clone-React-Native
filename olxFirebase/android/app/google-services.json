@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593529740992",
+    "project_id": "olxfirebasereact-9fa37",
+    "storage_bucket": "olxfirebasereact-9fa37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593529740992:android:300f166815cf65b830d725",
+        "android_client_info": {
+          "package_name": "com.olxfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593529740992-rr5h8nvppjh21ss7na6ilch4i20lhn4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABZWmrx3zGelmZHOaFsgE9R1vpckSWTf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593529740992-rr5h8nvppjh21ss7na6ilch4i20lhn4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

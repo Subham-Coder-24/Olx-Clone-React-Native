@@ -1,0 +1,5 @@
+{
+    "compile-hero.disable-compile-files-on-did-save-code": true,
+    "javascript.suggest.alwaysAllWords": true,
+    "javascript.suggest.useCodeSnippetsOnMethodSuggest": true
+}
